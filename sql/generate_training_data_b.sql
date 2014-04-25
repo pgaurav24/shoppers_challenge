@@ -59,4 +59,5 @@ bucketize(bought_company_brand_category_q,0,1,2,5,10,20) bbought_company_brand_c
 bucketize(bought_company_brand_category_a,0,15,30,50,100,200) bbought_company_brand_category_a,
 repeattrips,
 repeater
-
+from
+shoppers.trainingset;
